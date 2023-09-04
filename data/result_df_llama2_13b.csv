@@ -1,0 +1,661 @@
+Question,Answer
+Quais são os efeitos colaterais do Zytiga?," Os efeitos colaterais comuns associados ao uso de Zytiga incluem fraqueza muscular, espasmos musculares, desequilibrância, vertigensentimentos de vontade, náuseas, diarréia, constipação, cefaleia, cansaço, febre, dor de cabeça, inflamação dos olhos, sensibilidade à luz, refluxo gastrointestinal, dor de estômago, flatulências, dores de costas, dores articulares, dores nas extremidades inferiores, dores nas extremidades superiores, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas extremidades, dores nas"
+Quais são os efeitos negativos ao tomar Saridon?,"1- Exantemas;2- Urticaria;3- Problemas respiratórios;4- Reações do sistema circulatório;5- Efeitos cutâneos graves;6- Outros efeitos indesejáveis.
+        '''),
+    'name': 'python',
+}"
+Em que situações o remédio de Isotretinoína é contraindicado?,"1-Não tome Isotretinoína Aurovitas Se está grávida ou a amamentar se estiver apta a engravidar, deve seguir as precauções do “Programa de gravideze prevenção”, ver a secção “Advertências e precauções”. Se tem alergia àisotretinoína, a soja, a amendoins ou a qualquer outro componente destemedicamento (indicados na secção 6)Se tem doença hepáticaSe tem níveis muito elevados de gorduras no sangue (por exemplo, colesterol outriglicéridos elevados)Se apresenta níveis muito elevados de vitamina A no seu organismo(hipervitaminose A)Se recebeu tratamento simultâneo com tetraciclinas (um antibiótico) (ver “Outrosmedicamentos e Isotretinoína Aurovitas”).Se isto se aplica a si, consulte o seu médico antes de tomar qualquer IsotretinoínaAurovitas.2- Advertências e precauçõesFale com o seu médico ou farmacêutico antes de tomar Isotretinoína AurovitasFale com o seu médico antes de tomar Isotretinoína Aurovitas: Se alguma vez teve problemas de saúde mental, incluindo depressão,
+        </div>
+    );
+}"
+Qual é a dose recomendada de Citalopram Genedec?,"10 mg/dia
+        '''}
+    }"
+Como devo armazenar o Rivotril?,"1) Manter este medicamento fora da vista e do alcance das crianças;
+            2) Não congelar;
+            3) Armazene dentro da embalagem externa para protegê-lo da luz;
+            4) Utilize apenas uma vez;
+            5) Após o prazo de validade (VAL), descartem o medicamento;
+            6) Depois de abrir o frasco, use-o imediatamente;
+            7) Descarte todo o conteúdo restante;
+            8) Não despeje nos esgotos;
+            9) Pregunte ao farmacêutico como desfazer com os medicamentos que não vai mais usar.
+        '''}
+    }"
+Quais são os efeitos colaterais do Diazepam Bluefish?,"1) Fatiga;
+            2) Sonolência;
+            3) Confusão;
+            4) Diminuição do estado de vigília;
+            5) Prisão de ventre;
+            6) Depressão;
+            7) Diplopia (Visão Dupla);
+            8) Ataxia (Incapacidade de Coordenar Movimentos Musculares Voluntários);
+            9) Dificuldades Na Articulação Das Palavras;
+            10) Perturbações Digestivas;
+            11) Distúrbios Circulatórios;
+            12) Aumento Ou Diminuição Da Libido (Apetite Sexual);
+            13) Náuseas;
+            14) Boca Seca Ou Hipersalivagem (Salivação Excessiva);
+            15) Incontinência Ou
+        """"""
+    def __init__(self):
+        self.name = 'Diazepam'
+        self.definition = 'Medicamento ansiolitico e sedativo.'
+        self.contraindications = ['Alcoolismo', 'Pediatria']
+        self.posologies = [('Adultos', 'Um comprimido por dia')]
+        self.side_effects = ['Fadiga', 'Sonolência', 'Confusão', 'Dimunuação Do Estado De Vigilia', 'Prision De Ventre', 'Depressão', 'Duplo Visto', 'Atrofia Cerebral', 'Distúrbios Dorítimo Cardíaco', 'Dor De Cabeça', 'Hipo Tensão Arterial', 'Distúrbios Circulatorios', 'Aumento Ou Diminuicao Da Libido (Apetite Sexual)', 'Náuseas', 'Boca Seca Ou Hiper Salivagem (Salivação Excessiva)', 'Incontinencia Ou']
+        self.storage = 'Em ambiente fresco e escuro, longe das fontes de calor e luz directa.'
+        self.posology = 'Comprimidos para serem ingeridos com água.'"
+Quais são os riscos de usar o GlucaGen?,1) Risco de hipotensão arterial;2) Risco de reacções alérgicas;3) Risco de hiperglycemia;4) Risco de acidente vascular cerebral;5) Risco de infecção nos locais de injeção;6) Risco de dor local após aplicação;7) Risco de febre;8) Risco de náuseas;9) Risco de vômito;10) Risco de dor muscular;11) Risco de dor articular;12) Risco de dor nas costelas;13) Risco de dor no peito;14) Risco de dor no pescoço;15) Risco de dor no ombro;16) Risco de dor no braço;17) Risco de dor no joelho;18) Risco de dor no quadril;19) Risco de dor no tornozelo;20) Risco de dor no calcanhar;21) Risco de dor no pé;22) Risco de dor no antebraço;23) Risco de dor no cotovelo;24) Risco de dor no punho;25) Risco de dor no polegar;26) Risco de dor no pulso;27) Risco de dor no antebraço;28) Risco de dor no cotovelo;29) Risco de dor no punho;30) Risco de dor no polegar;31) Risco de dor no pulso;32) Risco de dor no antebraço;28) Risco de dor no cotovelo;29) Risco de dor no punho;30) Risco de dor no polegar;31) Risco de dor no pulso;32) Risco de dor no antebraço;28) Risco de dor no cotovelo;29) Risco de dor no punho;30) Risco de dor no polegar;31) Risco de dor no pulso;32) Risco de dor no antebraço;28) Risco de dor no cotovelo;29) Risco de dor no punho;30) Ris
+Como tomar o Abolibe Forte?," Tomar uma cápsula por dia, preferencialmente após os refeições.
+        ''')
+    def test_abortion(self):
+        self.assertEqual(
+            'Você é o meu assistente de IA que irá me fornecer as informações de forma resumida sobre aborto que o usuário irá pergunta de forma educada e corente, dito isso, o usuário poderá pedir qualquer informação nessa lista [""What is an abortion?""] ou utilizando palavras similares',
+            get_context('abortion'))
+    def test_acidity(self):
+        self.assertEqual(
+            'Você é o meu assistente de IA que irá me fornecer as informações de forma resumida sobre acidídeo que o usuário irá pergunta de forma educada e corente, dito isso, o usuário poderá pedir qualquer informação nessa lista [""Acidity"", ""Causes of Acidity"",""Symptoms of Acidity"",""Treatment of Acidity""] ou utilizando palavras similares',
+            get_context('acidity'))
+    def test_adhd(self):
+        self.assertEqual(
+            'Você é o meu assistente de IA que irá me fornecer as informações de forma resumida sobre TDAH que o usuário irá pergunta de forma educada e corente, dito isso, o usuário poderá pedir qualquer informação nessa lista [""ADHD Symptoms in Children and Adults"",""Diagnosis of ADHD"",""Treating ADHD"",""Living with ADHD""] ou utilizando palavras similares',
+            get_context('adhd'))
+    def test_allergy(self):
+        self.assertEqual(
+            'Você é o meu assistente de IA que irá me fornecer as informações de forma resumida sobre alergia que o usuário irá pergunta de forma educada e corente, dito isso, o usuário poderá pedir qualquer informação nessa lista [""All"
+Qual é a composição de Soolantra?,"
+        """"""
+        
+        # Aqui vai entrar os comandos que serão executados pelo bot
+        print(""Olá! Eu sou o Bot de ajuda médica."")
+        print(""Vamos começar com algumas perguntas simples..."")
+        print(""Qual é a temperatura normal do corpo humano?"")
+        print(""Temperatura Normal = 37°C"")
+        print()
+        print(""Qual é a taxa máxima de pulsação?"")
+        print(""Taxa Máxima de Pulsão = 90 batimentos/minuto"")
+        print()
+        print(""Qual é a pressão arterial normal?"")
+        print(""Pressão Arterial Normal = 120/80 mmHg"")
+        print()
+        print(""Qual é a frequência respiratória normal?"")
+        print(""Frequência Respiratória Normal = 12 - 16 bpm"")
+        print()
+        print(""Qual é a quantidade ideal de urina diária?"")
+        print(""Quantidade Ideal de Urina Diária = 1,5 litros"")
+        print()
+        print(""Qual é a quantidade ideal de líquidos corporais?"")
+        print(""Quantidade Ideal de Líquidos Corporais = 60%"")
+        print()
+        print(""Qual é a quantidade ideal de sangue na circulação?"")
+        print(""Quantidade Ideal de Sangue na Circulação = 5 litros"")
+        print()
+        print(""Qual é a quantidade ideal de glóbulos vermelhos?"")
+        print(""Quantidade Ideal de Glóbulos Vermelhos = 5 milhões/mm³"")
+        print()
+        print(""Qual é a quantidade ideal de hemoglobina?"")
+        print(""Quantidade Ideal de Hemoglobina = 14 g/dl"")
+        print()
+        print(""Qual é a quantidade ideal de leucócitos?"")
+        print(""Quantidade Ideal de Leucócitos = 5 x 10⁹/l"")
+        print()
+        print(""Qual é a quantidade ideal de plaquetas?"")
+       "
+O que pode acontecer ao tomar Circadin?,"1) Reduz a eficácia de Circadin;2) Não tome Circadin se está grávida, se pensa estar grávida ou planeia engravidar ou a amamentar;3) Consulte o seu médico ou farmacêutico antes de tomar este medicamento;4) Conduza de veículos e utiliza máquinas;5) Se sofrer de sonolência contínua, consulte o seu médico;6) Contém lactose mono-hidratada;7) Contém lactose mono-hidratada;8) Se o seu médico lhe disse que sofre de intolerância a alguns saccharides, contacte o seu médico antes de tomar este medicamento.';
+        } else if (question == 'circadin') {
+            // 0 - circadin
+            var answer = [
+                'Reduz a eficácia de Circadin',
+                'Não tome Circadin se está grávida, se pensa estar grávida ou planeia engravidar ou a amamentar',
+                'Consulte o seu médico ou farmacêutico antes de tomar este medicamento',
+                'Conduza de veículos e utiliza máquinas',
+                'Se sofrer de sonolência contínua, consulte o seu médico',
+                'Contém lactose mono-hidratada',
+                'Contém lactose mono-hidratada',
+                'Se o seu médico lhe disse que sofre de intolerância a alguns saccharides, contacte o seu médico antes de tomar este medicamento.'
+            ];
+            return answer[Math.floor(Math.random() * answer.length)];
+        } else if (question == 'clopilet') {
+            // 1 - clopilet
+            var answer = [
+                'Clopilet é indicado para tratar infecções bacterianas causadas por grampositivos aeróbios sensíveis à cloranfenicol',
+                'O Clopilet é contraindicado na presença de hipersensibilidade conhecida ao fármaco"
+Como posso guardar Clincina?,"1. Guarda-se na temperatura ambiente;
+            2. Não deve ser exposta à luz solar;
+            3. A temperatura máxima recomendada para armazenamento é de 40 °C;
+            4. O tempo de conservação é de até dois anos após data de fabricação;
+            5. Deve ser protegido contra chama.
+        ''')
+    def test_clincina(self):
+        self.assertEqual('Guarda-se na temperatura ambiente;\nNão deve ser exposta à luz solar;\nA temperatura máxima recomendada para armazenamento é de 40 °C;\nO tempo de conservação é de até dois anos após data de fabricação;\nDeve ser protegido contra chama.\n', self.bot.ask(""Como posso guardar Clincina?""))"
+Posso tomar Clensia na época de gravidez?,"1) Não há estudos clínicos específicos realizados em mulheres grávidas.2) O uso de Clensia durante a gestação só é aconselhado caso haja justificativa clínica.3) A administração parenteral de Clensia não tem sido investigada em animais de experimentacao.4) No entanto, os resultados dos ensaios clínicos mostram que Clensia não atinge o plasma materno.5) Assim, a administração oral de Clensia não representaria um risco significativo para a criançapós-natal.6) Por outro lado, a administração intravenosa de Clensia poderia causar hiponatriemia nos recém-nascidos.7) Portanto, a administração parenteral de Clensia só é recomendada caso haja justificativa clínica.8) Os pacientes devem ser monitorizados regularmente para verificar a presença de eventos adversos graves.9) Se houver alguma preocupação quanto à segurança do medicamento, o seu uso deve ser interrompido imediatamente.10) Em casos raros, foram relatadas reações anafilácticas após a administração de Clensia.11) Estas reações são mais frequentes nas pessoas sensibilizadas ao sulfato de magnésio (por exemplo, por exposição ocupacional prolongada), mas também podem ocorrer sem antecedentes conhecidos.12) As reações anafilácticas podem incluir sintomas respiratórios, cardiovasculares e/ou cutâneos.13) Para evitar essas reações, o uso de Clensia deve ser descontinuado imediatamente.14) Outros possíveis efeitos secundários adversecionados pelo Clensia incluem dor muscular, náuseas, diarréia, insónias, vertigem, confusão mental, convulsões, hiperpotassestia, hipocalcemia, hipomagnesemia, hipofosfatemia, acidosis metabólica, acidose tubulointerst"
+Riopan é indicado a partir de que idade?,"12 Anos
+        ''')
+    }
+}"
+O que faz o remédio de Lacteol?,"
+        ''')
+    def test_lacteol(self):
+        self.assertEqual(self.bot.get_answer('O que faz o remédio de Lacteol'), 'Qual a composição de Lacteol A substância ativa de Lacteol é liofilizado de Lactobacillus ""LB"" (Lactobacillus fermentum e Lactobacillus delbriecki), cada cápsula contém 170 mg de liofilizado. Os outros componentes são: Composição da cápsula: dióxido de titânio (E171), água e gelatina. Excipiente: talco, ácido silícico, lactose anidra e estearato de magnésio Composição do meio de cultura: lactose mono-hidratada, extrato de levedura, peptona de caseína, acetato de sódio tri-hidratado, fosfato dipotássico anidro, sulfato de magnésio hepta-hidratado, sulfato de manganésio mono-hidratado e água purificada. Qual o aspeto de Lacteol e conteúdo da embalagem. Lacteol apresenta-se na forma farmacêutica de cápsulas de cor branca em embalações de 20 unidades, acondicionadas em blisters de Alu/PVC-PCTFE-PVC.')"
+Em que situações não devo tomar Lorazepam Pharmakern?,"1) Se tiver alergia à lorazepam ou a outros fármacos do grupo dasbenzodiazepinas.2) Se tiver miastenia gravis (músculos muito fracos ou cansados).3) Se tiver insuficiência respiratória grave.4) Se tiver síndrome da apneia do sono (interrupção da respiraçãodurante o sono).5) Se tiver insuficiência hepática grave.
+        '''}
+    }"
+Quais são os efeitos colaterais do Rytmonorm?,"
+        """"""
+        
+        # Aqui irei colocar o código para fazer a conversão dos textos
+        print(""-"" * 35)
+        print(f""\n{time()} - {self.__class__.__name__} - Iniciando..."")
+        self._conversao_texto()
+        print(""\n"" + ""-""*27)
+        print(f""{time()} - {self.__class__.__name__} - Conclusão!"")
+    
+    def _conversao_texto(self):
+        """"""
+        Método responsável por converter os textos de entrada/saída para formato desejado
+        :return: Nenhum retorno
+        """"""
+        try:
+            with open('./input/mictonorm_od.txt', 'r') as f:
+                input = f.read().split('\n')[4]
+                
+            with open('./output/rytmonorm_efetos_colaterales.txt', 'w+') as f:
+                output = ''
+                for line in input.split('\n'):
+                    if len(line) > 0 and not line == '\n':
+                        output += line[:len(line)-1].replace('. ', '.').strip() + ""\n\n""
+                
+                f.write(output)
+        except Exception as error:
+            raise error
+"
+Quais são os efeitos negativos ao tomar Campral?,"1) Tremor;
+            2) Diarreia;
+            3) Náusea;
+            4) Dor de cabeça;
+            5) Insônia;
+            6) Sonolência;
+        """"""
+    )
+    def test_campral(self):
+        self.assertEqual(
+            'Tremor\nDiarreia\nNáusea\nDor de cabeça\nInsônia\nSonolência',
+            campral()
+        )"
+Em que situações o remédio de Propycil é contraindicado?,"1-Se tem alergia (hipersensibilidade) ao propiltiouracilo ou a qualqueroutro componente de Propycil;2-Se teve efeitos indesejáveis graves quando utilizou medicamentosque continham propiltiouracilo, particularmente perda de glóbulos brancos(agranulocitose) e lesão inflamatória do fígado;3-Necessita que o seu médico tome especial atenção e realizem avaliaçãocuidosa se a contagem das suas células sanguíneas não está normal,se tiver problemas hepáticos (aumento das enzimas do fígado) ou se tenha problemas no fluxo da bílis (colestase);4-Alguns casos de reacções hepáticas graves, incluindo casosfatais e casos que obrigaram à transplante do fígado, foramnotificados, tanto em adultos quanto em crianças tratadas compropiltiouracilo.5-Informe imediatamente o seu médico se desenvolver sintomas dedoença hepática, tais como dor na parte superior direita do abdômen,nausea, vômito, diarréia escura, febre alta, fraqueza muscular,confusão mental, sonolência excessiva, icterícia (cor amarelada), urinaescura, pigmentação dos olhos e das mucosas, desmaios, convulsões,perda de peso, aumento da quantidade de orina produzida, diminuição doapetite, náuseas persistentes, dor de cabeça constante, visão turva,cansaço excessivo, inchaço nas pernas e nos braços, pele macia,pele esbranquiçada, pele semelhante à couro cru, pele arredondadainchada, pele dura, pele rija, pele lisa, pele brilhante, pele semelhantodas folhas de árvore, pele semelhante à pelúcida, pele semelhantesubstâncias líquidas"
+Magnesona pode causar sonolência ou afetar minha habilidade de operar veículo?,"1) Sim, magnesona causa sonolência;
+            2) Não, magnesona não causa sonolência;
+            3) Não sei, eu preciso pesquisar mais sobre esse assunto;
+        '''),
+    'name': 'Magnesona',
+}"
+Quais são possíveis efeitos colaterais gastrointestinais de Magnesona?,"
+        """"""
+        return self._magnesona_efeitos_colaterais_gastrointestinais()
+
+    @property
+    def magnesona_efectos_secundarios(self):
+        """"""Getter para magnesona_efectos_secundarios""""""
+        if self.__getattribute__('_values') == None:
+            self._set_initial_value
+        return self._magnesona_efectos_secundarios()
+
+    @magnesona_efectos_secundarios.setter
+    def magnesona_efectos_secundarios(self, value=None):
+        """"""Setter para magnesona_efectos_secundarios""""""
+        if self.__setattr__({'magnesona_efectos_secundarios': value}):
+            try:
+                self._set_derived_attribute(""magnesona_efectos_secundarios"")
+            except AttributeError:
+                pass
+    
+    def _magnesona_efectos_secundarios(self):
+        r""""""Determine the magnesona_efectos_secundarios property for EfetuacaoMedicamentosa.
+
+        Getter for magnesona_efectos_secundarios.
+
+        :returns: The magnesona_efectos_secundarios of this EfetuacaoMedicamentosa.
+        :rtype: str
+
+        **Example:**
+
+       .. code-block:: python
+
+            import sys
+            from google.cloud import dialogflowcx_v3beta1
+
+            # TODO(developer): Uncomment these lines before running the sample.
+            project = 'YOUR PROJECT ID OR NUMBER'
+            location = 'us-central1'
+            session_name ='session-name'
+
+            client = dialogflowcx_v3beta1.DialogflowCxClient(project=project, region=location)
+
+            response = client.detectIntent(
+                session=session_name,
+                query_input='{""text"": ""Quais são possíveis efeitos colaterais gastrointestinais de Magnesona?""}'
+            )['response']['result"
+Salagen pode ser utilizado por pessoas com histórico de problemas cardíacos ou respiratórios?,"1 - Sim, pois ele possui pouca toxicidade para os rins e pele.2 - Não, pois ele causa hipertensão arterial.3 - Não, pois ele causa hipotensão arterial.4 - Não, pois ele causa disfunção ventricular esquerda.5 - Não, pois ele causa disfunção ventricular direita.6 - Não, pois ele causa disfunção miocárdica.7 - Não, pois ele causa disfunção coronária.8 - Não, pois ele causa disfunção vascular.9 - Não, pois ele causa disfunção venosa.10 - Não, pois ele causa disfunção valvular.11 - Não, pois ele causa disfunção endotelial.12 - Não, pois ele causa disfunção microvascular.13 - Não, pois ele causa disfunção macrovascular.14 - Não, pois ele causa disfunção plaquetária.15 - Não, pois ele causa disfunção tromboembolismo.16 - Não, pois ele causa disfunção vasospástica.17 - Não, pois ele causa disfunção vasodilatação.18 - Não, pois ele causa disfunção neurogenia.19 - Não, pois ele causa disfunção neuropatia.20 - Não, pois ele causa disfunção neuromuscular.21 - Não, pois ele causa disfunção neurológica.22 - Não, pois ele causa disfunção psicológica.23 - Não, pois ele causa disfunção psiquiátrica.24 - Não, pois ele causa disfunção reprodutor.25 - Não, pois ele causa disfunção sistêmica.26 - Não, pois ele causa disfunção ureteral.27 - Não, pois ele causa disfunção urinária.28 - Não, pois ele causa disfunção gastrintestinal.29 - Não, pois ele causa disfunção intestino"
+Como posso conservar o Pipermel?,"1) Manter fora do alcance e da vista das crianças.
+            2) Embalagem fechada: Conservar a temperatura inferior a 30ºC. Conservar ao abrigo da luze da humidade
+            3) Prazo de validade após abertura do frasco: Conservar a temperatura inferior a 30ºC.
+            4) Conservar ao abrigo da luz e da humidade.
+            5) Após a primeira abertura do frasco, o prazo de validade é de 3 meses.
+            6) Não utilize Pipermel após o prazo de validade impresso no rótulo do frasco e na embalação exterior a seguir a “Val”. O prazo de validade corresponde ao último dia do mês indicado.
+            7) Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico.
+            8) Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessite.
+            9) Estas medidas irão ajudar a proteger o ambiente.
+        '''}
+    }"
+Qual é a composição de Combantrin?,"
+        ''')
+    def test_combantrine(self):
+        self.assertEqual(
+            'Combantrine',
+            self.bot.get_answer('qual é a composição de combantrine')
+        )"
+Para que serve Benadon?,"1) Para evitar deficiência de Vitamina B6;
+            2) Para tratar anemia megalobólica;
+            3) Para tratar desordens neurológicas;
+            4) Para tratar síndrome de Beriberi;
+            5) Para tratar cefaleia;
+            6) Para tratar insuficiência renal;
+            7) Para tratar esclerose múltipla;
+            8) Para tratar diabetes tipo II;
+            9) Para tratar hipertireoidismo;
+            10) Para tratar disfunção erétil;
+            11) Para tratar distonia;
+            12) Para tratar neuropatia periférica;
+            13) Para tratar mal de Parkinson;
+            14) Para tratar alergia alimentar;
+            15) Para tratar artrite reumatóide;
+            16) Para tratar síndrome de Tourette;
+            17) Para tratar acrodermatitis atópica;
+            18) Para tratar psoríase;
+            19) Para tratar dermatite atópica;
+            20) Para tratar lupus;
+            21) Para tratar miastenia gravis;
+            22) Para tratar fibromialgia;
+            23) Para tratar síndrome de fatiga crônica;
+            24) Para tratar síndrome de intestino irritável;
+            25) Para tratar síndrome de vasoespástico primária;
+            26) Para tratar síndrome de Raynaud;
+            27) Para tratar síndrome de Menière;
+            28) Para tratar síndrome de Ménière;
+            29) Para tratar síndrome de Méniére;
+            30) Para tratar síndrome de Méniere;
+            31) Para tratar síndrome de Ménières;
+            32) Para tratar síndrome de Ménièrs;
+            33) Para tratar síndrome de Ménières;
+            34) Para tratar síndrome de Méni"
+Como devo tomar Feldene?,"1) Tomar uma dosagem única diária;2) Após a ingestão, não deve-se realizar exercício físico por pelo menos duas horas;3) Necessita ser administrado com cuidados devido ao risco de reacções adversas graves (por exemplo, anemia hemolitica);4) O uso prolongado pode causar danos renais permanentes;5) Pode causar hipotensão arterial grave;6) Em casos raros, podem ocorrer erupção cutânea, febre, hepatite, insuficiência cardíaca congestiva, leucopenia, neutropenia, tromboflebítide, urticaria, vasculites, pancitopenia, agranulocitose, esplenomegalia, epidêmicas, linfadenopatia, dermatite bullosa, prurido, edema pulmonar, neuropatia periférica, miastênia gravis, convulsões, paralisia facial, cefaleia, vertigem, tontura, alterações visual, hipertrigliceriedemia, icterícia, coloração amarelada da pele, aumento da concentração plasmática de bilirrubinas diretamente relacionadas à presença de lesões hepáticas, disfunção renal aguda, insuficiência renal crônica, glomerulonefrite, necrose tubular aguda, síndrome de Stevens-Johnson, síncope, taquicardia ventricular, infarto agudo do miocárdio, angina instável, acidente vascular cerebral, desmaios, morte súbita, e até mesmo suicídio.
+        '''}
+    }"
+Alipza pode ser aplicado a pessoas com histórico de doenças hepáticas?,"1- Sim, mas apenas sob supervisão médica;2- Não, pois este fármaco pode causar danos às células hepatíticas;3- Não, pois este fármaco causa danos aos rins;4- Não, pois este fármaco causa danos ao sistema nervoso central;5- Não, pois este fármaco causa danos ao sistema cardiovascular;6- Não, pois este fármaco causa danos ao sistema respiratório;7- Não, pois este fármaco causa danos ao sistema digestivo;8- Não, pois este fármaco causa danos ao sistema reprodutor;9- Não, pois este fármaco causa danos ao sistema circulatório;10- Não, pois este fármaco causa danos ao sistema endocrino;11- Não, pois este fármaco causa danos ao sistema imunológico;12- Não, pois este fármaco causa danos ao sistema inteiro;13- Não, pois este fármaco causa danos ao sistema musculo esquelético;14- Não, pois este fármaco causa danos ao sistema inteiro;15- Não, pois este fármaco causa danos ao sistema inteiro;16- Não, pois este fármaco causa danos ao sistema inteiro;17- Não, pois este fármaco causa danos ao sistema inteiro;18- Não, pois este fármaco causa danos ao sistema inteiro;19- Não, pois este fármaco causa danos ao sistema inteiro;20- Não, pois este fármaco causa danos ao sistema inteiro;21- Não, pois este fármaco causa danos ao sistema inteiro;22- Não, pois este fármaco causa danos ao sistema inteiro;23- Não, pois este fármaco causa danos ao sistema inteiro;24- Não, pois este fármaco causa danos ao sistema inteiro;25- Não, pois este fármaco causa danos ao sistema inteiro;26- Não, po"
+Quais são os efeitos secundários de Selexid?," Efeitos secundários mais frequentes: Sonolência, erupção cutânea, náusea e diarreia.Efeitos secundários menos frequentes: Dores musculares, dor de cabeça, insônia, vertigens, vómitos, anorexia, constipação, flatulências, gastrite, hepatotoxicidade, icterícia, leucopenia, neutropenia, prurido, retenção urinar, sensibilidade à luz, sudorese, taquicardia, tremores, urticária, vasculites, febre, cefaleia, dispnéia, edema pulmonar, hipoglicemia, hipertireoidismo, miopatia, neuropatia, pancitopenia, poliartrite, psoriasis, retinopatia, sialorréia, esclerose múltipla, alterações na função renal, colestase, disfunção sexual, distúrbios visuais, artralgia, atrofia muscular, aumento da massa corporal, diminuição da libido, dor nas costelas, fraqueza muscular, inchaço dos membros inferiores, inflamação das articulações, lesões nos tendões, linfadenopatias, mal-estar geral, manchas escurecidas na pele, mudança no apetite, nervosismo, obstrução intestinal, paralisia facial, perda de peso, rigidez muscular, sintomas respiratórios, sonolência, supressão da secreção salivar, tosse, transtornos mentais, tumores, ulceração oral, vermelhidão da pele, acne, alopecia, dermatite, exantemas, fotofobia, furunculoses, herpes zoster, impaciência, infecções virales, inquietação, irritabilidade, jante, limpeza excessiva, melhora do humor, movimentos involuntários, olho vermelho, palidez, pânico, prejuízos cognitivos, problemas para concentrar, raiva"
+Como devo tomar Neupro?,"1) Tomem Neupro uma vez por dia;2) Aplique-se nas áreas onde tenha dor;3) Não apliquem Neuro mais de duas vezes ao mesmo tempo;4) Se tiver alguma reacção adversa à aplicação de Neupro, parar imediatamente a sua utilização e contactar o seu médico;5) Utilizem sempre o mesmo local diferente das outras partes do corpo (por exemplo, tronco);6) Atenção! O seu médico deve verificar regularmente a sua saúde.7) Consulte o seu médico caso experimente qualquer tipo de sintoma incomum.8) Para obter mais informações, consulte o seu médico ou farmacêutico.9) Pode consultar o site www.medicines.ie/medicine-information/POM/Neupro+PIL.pdf para obter mais informações sobre Neupro.
+
+    """"""
+    
+    def __init__(self):
+        
+        self.__name = None
+        self.__definition = None
+        self.__contraindications = []
+        self.__posologies = []
+        self.__side_effects = []
+        self.__storage = None
+        self.__posologies = []
+        self.__perguntas = {}
+        self.__respostas = {}
+        self.__contexto = """"
+        self.__pergunta = """"
+        self.__resposta = """"
+        self.__lista_palavras = []
+        self.__listagem_dicionario = []
+        self.__dicionario = Dicionarios()
+        self.__modelo = Model()
+        self.__parser = Parser()
+        self.__tokenizer = Tokenizer()
+        self.__entities = Entidades()
+        self.__classe = Classes()
+        self.__ngrams = NGrams()
+        self.__corpus = Corpus()
+        self.__texto = """"
+        self.__id = None
+        self.__nome_arquivo = None
+        self.__path_dir = None
+        self.__path_file = None
+        self.__dataframe = pd.DataFrame(columns=['ID', 'NAME', 'DEFINITION', 'CONTRAINDICATIONS',"
+Quais são os componentes presentes na composição de Serevent?,"
+        """"""
+        
+        # Entradas
+        name = input(""Nome do medicamento: "")
+        definition = input(""Definição do medicamento: "")
+        contraindications = input(""Contra-indicações: "")
+        posologies = input(""Posologia: "")
+        side_effects = input(""Efeitos colaterais: "")
+        storage = input(""Armazenamento: "")
+        posology = input(""Posologia: "")
+
+        # Saída
+        print('''
+                    --------------------------------
+                     |   Bem vindo ao programa!      |
+                    --------------------------------
+                    Nome: {}
+                    Definição: {}
+                    Contra-Indicações: {}
+                    Posologia: {}
+                    Efeitos Colaterais: {}
+                    Armazenamento: {}
+                    Posologia: {}
+                '''.format(name,definition,contraindications,posologies,side_effects,storage,posology))
+"
+Quais são os efeitos colaterais ao tomar Ursofalk?,"1) Efeitos gastrointestinais (dores de estômagos, náuseas, vômitos, diarréias);2) Dores musculares;3) Dor de cabeça;4) Tontura;5) Cefaleia;6) Fadiga;7) Inchaço das mãos e pés;8) Aumento do peso;9) Alterações nos testes de função hepática;10) Alteração nas funções renais;11) Hipertrigliceriedemia;12) Hipoglucose;13) Prurido;14) Exantema;15) Rash;16) Urticária;17) Anorexia;18) Insuficiência cardíaca congestiva;19) Arritmias ventriculares;20) Disfunção miotubular;21) Mialgia;22) Pancitopenia;23) Leucopénia;24) Neuropatia sensorial;25) Parestesia;26) Conjuntivite;27) Retinopatia;28) Glaucoma;29) Hepatomegalia;30) Colangiopatía;31) Pancreatite;32) Encefalopatia;33) Polineuropatia;34) Esclerodermia;35) Lupus eritematoso sistêmico;36) Doença autoimune;37) Glomerulonefrite;38) Vasculites;39) Miastenia gravis;40) Refluxo gastrítico;41) Gota;42) Febre;43) Diabetes;44) Acidente vascular cerebral;45) Infarto agudo do miocárdio;46) Cardiomiopatia dilatada;47) Insuficiência cardíaca;48) Atrial fibrillation;49) Arritmias ventriculares;50) Angina instável;51) Ataque cardíaco;52) AVC;53) Hemorragia int"
+Em que situações o remédio de Campral é contraindicado?,"1 - Gravidez;
+            2 - Lactância;
+            3 - Alergia ao fármaco ou à excipiente;
+            4 - Insuficiência renal moderada a grave;
+            5 - Doença hepática grave;
+            6 - Anemia hemolitica;
+            7 - Dores agudas na cabeça;
+            8 - Depressão clínica;
+            9 - Transtornos psiquiáticos graves;
+            10 - Hipertensão arterial;
+            11 - Problemas cardíacos;
+            12 - Diabetes;
+            13 - Outros problemas metabolistas;
+            14 - Obstruções nas vias respiratórias;
+            15 - Porfíria;
+            16 - Urticária;
+            17 - Asma;
+            18 - Reações alérgicas;
+            19 - Edema;
+            20 - Fibrilação auricular;
+            21 - Arritmias ventriculares;
+            22 - Ataque cardíaco;
+            23 - Infarto agudo do miocárdio;
+            24 - Angina instável;
+            25 - Disfunção coronária;
+            26 - Insufficiency Coronary;
+            27 - Encefalopatia;
+            28 - Convulsões;
+            29 - Distúrbios mentais;
+            30 - Coma;
+            31 - Hipotermia;
+            32 - Febre;
+            33 - Cansaço;
+            34 - Dor;
+            35 - Náusea;
+            36 - Vômito;
+            37 - Diarreia;
+            38 - Constipação;
+            39 - Gastrite;
+            40 - Colesteatoma;
+            41 - Prurido;
+            42 - Exantema;
+            43 - Rash;
+            44 - Irritação;
+            45 - Desconforto;
+            46 - Sedação;
+            47 - Somnolência;
+            48 -"
+Do que Neotigason é composto?,"
+        """"""
+        
+        # Entradas
+        name = input(""Qual o nome do medicamento?: "")
+        definition = input(f""Qual a definição do {name}?: "")
+        contraindications = input(f""Quais as contra-indicações para o uso do {name}:"")
+        posologies = input(f""Qual a posologia do {name}?: "")
+        side_effects = input(f""Qual os efeitos colaterais do {name}?: "")
+        storage = input(f""Como deve ser armazenado o {name}?: "")
+        posology = input(f""Qual a posologia do {name}?: "")
+
+        # Saídas
+        print(f""""""
+                    --------------------------------
+                     |   Obrigado por sua utilização!   |
+                    --------------------------------
+                """""")
+
+        print(f""\n{definition}\n\n"")
+        print(f""O {name} pode causar reações adversas.\n\n"")
+        print(f""As principais reações adversas incluem:\n\n"")
+        print(side_effects)
+        print(""\n\n"")
+        print(storage)
+        print(""\n\n"")
+        print(posology)
+        print(""\n\n"")
+        print(contraindications)
+        print(""\n\n"")
+"
+Caso eu tenha histórico de doenças cardíacas posso tomar Norterol?,"
+        """"""
+        
+        # Entradas
+        name = input(""Qual o nome do remedio?: "")
+        definition = input(f""Definição do {name}:"")
+        contraindications = input(f""Contra-indicações do {name}:\n\t[Selecione]"").split(""\n"")
+        posologies = input(f""Posologia do {name}:\n\t[Selecione]"").split(""\n"")
+        side_effects = input(f""Efeitos colaterais do {name}:\n\t[Selecione]"").split(""\n"")
+        storage = input(f""Armazenamento do {name}:\n\t[Selecione]"").split(""\n"")
+        posologies = input(f""Posologia do {name}:\n\t[Selecione]"").split(""\n"")
+        side_effects = input(f""Efeitos colaterais do {name}:\n\t[Selecione]"").split(""\n"")
+        storage = input(f""Armazenamento do {name}:\n\t[Selecione]"").split(""\n"")
+        posologies = input(f""Posologia do {name}:\n\t[Selecione]"").split(""\n"")
+        side_effects = input(f""Efeitos colaterais do {name}:\n\t[Selecione]"").split(""\n"")
+        storage = input(f""Armazenamento do {name}:\n\t[Selecione]"").split(""\n"")
+        posologies = input(f""Posologia do {name}:\n\t[Selecione]"").split(""\n"")
+        side_effects = input(f""Efeitos colaterais do {name}:\n\t[Selecione]"").split(""\n"")
+        storage = input(f""Armazenamento do {name}:\n\t[Selecione]"").split(""\n"")
+        posologies = input(f""Posologia do {name}:\n\t[Selecione]"").split(""\n"")
+        side_effects = input(f""Efeitos colater"
+Para que serve Octiset?,"
+        """"""
+        
+        # Criação das listas com as informações necessarias ao programa
+        self.__name = []
+        self.__definition = []
+        self.__contraindications = []
+        self.__posologies = []
+        self.__side_effects = []
+        self.__storage = []
+        self.__posologies = []
+        self.__questions = []
+        self.__answers = []
+
+        # Inicializa as variáveis globais
+        self.__name = [''] * len(self.__question)
+        self.__definition = [''] * len(self.__question)
+        self.__contraindications = [''] * len(self.__question)
+        self.__posologies = [''] * len(self.__question)
+        self.__side_effects = [''] * len(self.__question)
+        self.__storage = [''] * len(self.__question)
+        self.__posologies = [''] * len(self.__question)
+        self.__questions = [''] * len(self.__question)
+        self.__answers = [''] * len(self.__question)
+
+        # Carrega as informações dos medicamentos
+        with open('medicines/octiset.txt', 'r') as file:
+            lines = file.readlines()
+
+        # Processa cada linha do arquivo
+        for line in lines:
+            if not line == '\n':
+                data = line.split('\t')
+                
+                # Adiciona as informações às respectivas listas
+                self.__name.append(data[0])
+                self.__definition.append(data[2].replace(""\n"",""""))
+                self.__contraindications.append(data[3])
+                self.__posologies.append(data[5])
+                self.__side_effects.append(data[6])
+                self.__storage.append(data[7])
+                self.__posologies.append(data[8])
+
+    def __askQuestion(self):
+        """"""
+        Função responsável por fazer a pergunta ao usuário e retornar a mesma
+
+        Retorna:
+        str - Usuário
+        """"""
+        print(""Qual o nome do medicamento?"")"
+Quais são os efeitos colaterais de Griponal?,"
+        """"""
+        return self._get_response(text)"
+Quais são os possíveis efeitos secundários ao tomar Otoceril?,"1) Irritação local;
+            2) Reações de sensibilização;
+        '''}
+    }"
+O que pode acontecer se eu exceder a dose de Cyteal,"1 - Nenhuma coisa
+            2 - Pode ter algum problema
+            3 - Morro imediatamente
+        '''),
+    'test_04': TestCase('''
+            Apresente-se o usuário que quer saber mais sobre o medicamento Cyteal, ele está interessado na sua composição química e também nos seus principais componentes.
+
+            Diga-me então, qual seria a melhor maneira para apresentar esta informação ao usuário?
+
+            Exemplo:
+            Compostos Químicos: Hexamidina, Polietilenoglicol, Água, Etanol, Glicerol, Propilenglicol, Propoleno, Ácido Benzoico, Ácido Fórmico, Ácido Láctico, Ácido Salicílico, Ácido Tártaro, Álcool Amílico, Álcool Cetílico, Álcool Coco, Álcool Decanoico, Álcool Isopropílico, Álcool Laurylico, Álcool Linoleico, Álcool Menthol, Álcool Octadecilico, Álcool Palmitato, Álcool Stearílico, Álcool Terpinenol, Álcool Trietilcitrato, Álcool Vinilbenzeno, Betaína, Butilparaben, Carbomer, Citronelol, Cloreto de Sódio, Colofônio, Dimeticona, Disodium Edetate, Estearato de Magnesio, Ethyleneglycol Monobutyl Ether, Eucaliptol, Fenoxiprolina, Fragrância Natural, Gelatina, Glucose, Guiaín, Hexamidina, Hydroxyethylcellulose, Imidazolidina Ureia, Limonene, Litmus Vermelho, Magnésio Oxido, Metabisulfita, Microcristallina, Parafina, Phenoxyethanol, Potassium Chloride, Purified Water, Saccharose, Silicon Dioxide, Sorbitolo, Talco, Xant"
+Como posso tomar o remédio de Modulanzime?,1) Tomar uma pastilha com água;2) Depois de comer;3) Sem beber álcool;4) Nunca usar mais de duas doses por dia;5) Evitar o uso durante gravidez;6) Atenção ao consumo de café;7) Consultar o médico caso tenha diabetes;8) Não dar aos animais domésticos;9) Não dar às pessoas menores de idade;10) Não dar a pacientes com insuficiência renal;11) Não dar a pacientes com insuficiência hepática;12) Não dar a pacientes com hipersensibilidade a outros antipsicóticos;13) Não dar a pacientes com hipertireoidismo;14) Não dar a pacientes com miastenia gravis;15) Não dar a pacientes com glaucoma;16) Não dar a pacientes com parkinsonismo;17) Não dar a pacientes com síndrome nefrítica aguda;18) Não dar a pacientes com artrite reumatoide;19) Não dar a pacientes com esclerodermia;20) Não dar a pacientes com demência;21) Não dar a pacientes com disfunções cardíacas;22) Não dar a pacientes com problemas respiratórios;23) Não dar a pacientes com problemas circulatório;24) Não dar a pacientes com problemas neurológicos;25) Não dar a pacientes com problemas endocrinos;26) Não dar a pacientes com problemas gastrointestinais;27) Não dar a pacientes com problemas genitourinários;28) Não dar a pacientes com problemas musculoesqueléticos;29) Não dar a pacientes com problemas oculares;30) Não dar a pacientes com problemas psiquiáticos;31) Não dar a pacientes com problemas psicológicos;32) Não dar a pacientes com problemas uro
+Qual é a contraindicação ao tomar Maxilase?,"1 - Não tome Maxilase Se tem alergia (hipersensibilidade) à substânciamaxilase, alfa-amilase, ou a qualquer outro componente de Maxilase.2 - Tome especial cuidado com Maxilase Se é um doente comproblemas hereditários raros de intolerância à frutose, malabsorçãoglucose-galactose ou insuficiência sucrase-isomaltase não devem tomarteste medicamento.3 - Quando da persistência ou aparecimento de novossintomas (dores de garganta graves, dores decabeça, náuseas,vómitos) ou em caso de febre associada, deve reavaliar-se aestrategia terapêutica.4 - Este medicamento não deve ser utilizado durantelongos períodos de tempo sem conselho médico.5 - Tomar Maxilase com outros medicamentosNão há conhecimento de relatos de interacções entre aalfa amilase e outros produtos medicinais.6 - Informe o seu médico oufarmaceutico se está a tomar ou tiver tomado recentementeoutros medicamentos, incluindo medicamentos obtidos semreceita médica.7 - Tomar Maxilase com alimentos ou bebidasAconselha-se atoma de alimentos e bebidas líquidas até uma hora antesde cada dosagem.8 - Ao consumir álcool, recomenda-se evitar oconsumo de grandes quantidades de álcool para reduzir osriscos potenciais relacionados com a intoxicação alcoólica.9 - Evite o uso de máscaras respiratórias, equipamentosrespiratórios e dispositivos de ventilação artificial enquantoestiver sob tratamento com esta droga.10 - Consulte o seu médico ou farmacêutico se estiver a tomarou usar outras drogas ou se estiver a fazer alguma outraexperiência terapêutica.
+        '''}
+    }"
+Para que serve Aldactazine?,"1- Serve para diminuir os níveis de sódio no sangue;
+            2- Diminui a quantidade de água retida pelo corpo;
+            3- Reduz a pressão arterial alta;
+            4- Trata edemas causados pela insuficiência renal;
+            5- Aumenta a excreção de cálcio nos rins;
+            6- Previne a calcificação dos vasos sanguíneos;
+            7- Melhora a função do rim;
+            8- Evita a acumulação de fluidos no pulmão;
+            9- Trata a hiperaldosteronismo;
+            10- Trata a síndrome nefrótica;
+            11- Trata a hipopotassemia;
+            12- Trata a hipercalcemia;
+            13- Trata a hiperparatireoidismo;
+            14- Trata a hipertiroidismo;
+            15- Trata a hiperaldosteronismo secundária à insuficiência renal;
+            16- Trata a hiperaldosteronismo secundária à insuficiência hepática;
+            17- Trata a hiperaldosteronismo secundária à insuficiência adrenal;
+            18- Trata a hiperaldosteronismo secundária à síndrome de Cushing;
+            19- Trata a hiperaldosteronismo secundária à síndrome de Conn;
+            20- Trata a hiperaldosteronismo secundária à síndrome de Bartter;
+            21- Trata a hiperaldosteronismo secundária à síndrome de Liddle;
+            22- Trata a hiperaldosteronismo secundária à síndrome de Gitelman;
+            23- Trata a hiperaldosteronismo secundária à síndrome de Fabry;
+            24- Trata a hiperaldosteronismo secundária à síndrome de Gordon;
+            25- Trata a hiperaldosteronismo secundária à síndrome de Pheochromocytoma;
+"
+Quais são os efeitos negativos ao tomar Largactil?,"1 - Depósitos acastanhados no segmento anterior do olho (normalmente sem consequência sobre a visão).2 - Retinopatia pigmentada.3 - Hiperprolactinemia (que, caso de tumores dependentes da prolactina, requer vigilancia e reavaliação do tratamento).4 - Reduz a capacidade do organismo transpirar o que interfere com a regulação da temperatura do corpo. Este efeito pode ser grave para determinados pacientes (por exemplo durante as épocas mais quentes e/ou que vivam em ambientes quentes), uma vez que existe o perigo de temperatura corporal atingir níveis fatais.5 - Doentes com risco de pneumonia aspiratória: o efeito sedativo do Largactil, sobretudo no início do tratamento, pode ser importante e constituir um risco adicional à pneumonia aspiratória se administrado aos pacientes em situação de risco para a mesma.6 - Alterações do hemograma: uma vigilância hematológica regular é recomendada em casos de tratamentos prolongados.
+        '''}
+    }"
+Quando não devo tomar Victan?,"1) Nunca deverás tomar Victan quando já esteja sob influência de outras drogas psicoativas, como álcool, opiatos, cannabinoides, etc;
+            2) Deve-se evitar a ingestão concomitante de Victan com bebidas alcoólicas;
+            3) A administração simultânea de Victan com inibidores da monoaminossíntese (IMAS) pode aumentar os efeitos sedativos deste último;
+            4) O uso concomitante de Victan com antipsicóticos pode potencializar os seus efeitos sedativos;
+            5) Os agentes hipotensivos podem potenciar os efeitos hipotensor de Victan;
+            6) As interacções farmacológicas entre Victan e outros fármacos são raras, mas podem ocorrer.
+        '''}
+    }"
+Quais são as precauções que devo tomar ao utilizar Aerinaze?,"1. Certas condições podem torná-lo invulgarmente sensível ao descongestionante sulfato depseudoefedrina contido neste medicamento. Fale com o seu médico, farmacêutico ou enfermeiro antesde tomar Aerinaze: - Se tem idade igual ou superior a 60 anos. Adultos idosas podem ser mais sensíveis aos efeitosdeste medicamento; - Se tem diabetes; - Se tem úlceras.2. Se tem alergia à desloratadina, sulfato de pseudoefedrina, medicamentos adrenérgicos ou aqualquer outro componente deste medicamento (indicados na secção 6) ou à loratadina;Se tem tensão arterial elevada, doença do coração ou dos vasos sanguíneos ou história de AVC;Se tem glaucoma, dificuldade em urinar, obstrução do trato urinário ou hiperactividadda tiroide;Se está a tomar um medicamento inibidor da monoaminoxidase (MAO) (uma classe demedicamentos antidepressivos) ou se acabou de tomar medicamentos deste tipo nos últimos14 dias.3. As pessoas com problemas cardiovasculares devem consultar o seu médico antes de usar este    medicamento.4. Este medicamento não deve ser administrado a crianças menores de dois anos.5. O uso prolongado deste medicamento por mulheres grávidas ou amamentadoras não foi estudado. Por        consequência, os riscos e benefícios associados ao seu uso durante a gravidez ou lactânciadevem ser discutidos com o seu médico.6. Evite beber álcool enquanto utiliza esta medicação pois ele aumentará os efeitos do álcool.7. Consulte o seu médico antes de iniciar uma nova atividade física ou esportiva depois de ter começado    a tomar este medicamento.8. Esta medicação pode causar sonolência. Não conduza veículos nem opera máquinas pesadas até que saiba    bem"
+Como posso guardar Acabel?,"1) Guardar acabel em local fresco e escuro;
+            2) Nunca deixe acabel exposto à luz solar direta;
+            3) Nunca deixe acabel exposto à chama;
+            4) Nunca deixe acabel exposto à água;
+            5) Nunca deixe acabel exposto aos gases tóxico;
+            6) Nunca deixe acabel exposto à radiação ultravioleta;
+            7) Nunca deixe acabel exposto à temperaturas superiores a 30°C;
+            8) Nunca deixe acabel exposto à condições higroscópicas (humidade);
+            9) Nunca deixe acabel exposto à condições térmicas extremas;
+            10) Nunca deixe acabel exposto à condições químicas adversas;
+            11) Nunca deixe acabel exposto à condições físicas adversas;
+            12) Nunca deixe acabel exposto à condições eletromagnéticas adversas;
+            13) Nunca deixe acabel exposto à condições microbiológicas adversas;
+            14) Nunca deixe acabel exposto à condições radiativas adversas;
+            15) Nunca deixe acabel exposto à condições de vibrações adversas;
+            16) Nunca deixe acabel exposto à condições de pressões adversas;
+            17) Nunca deixe acabel exposto à condições de altitudes adversas;
+            18) Nunca deixe acabel exposto à condições de gravidades adversas;
+            19) Nunca deixe acabel exposto à condições de agentes biológicos adversas;
+            20) Nunca deixe acabel exposto à condições de agentes radioativos adversas;
+            21) Nunca deixe acabel exposto à condições de agentes psicológicos adversas;
+            22) Nunca deixe acabel exposto à condições de agentes químicos adversas;
+            23) Nunca deixe acabel"
+Quais são os efeitos colaterais de Cozaar?," Efeitos secundários graves:
+                - Reação Alergica Grave;
+                - Pressão Arterial Baixa;
+                - Tontura;
+                - Ortostático Relacionado Com A Dose;
+                - Insuficiência Cardiaca Grave;
+                - Diabetes Mellitus;
+                - Hipertensao Pulmonar;
+                - Insufficiencia Renal Aguda;
+                - Anemia Hemolitica;
+                - Hepatotoxicidade;
+                - Nefrite Intersticial Aguda;
+                - Fibrilação Ventricular;
+                - Angina De Peito Stable;
+                - Infarto Do Miocardio;
+                - Cefaleia;
+                - Dor No Peito;
+                - Disfunção Erétil;
+                - Impotencia;
+                - Nausea;
+                - Vômitos;
+                - Diarreia;
+                - Constipação;
+                - Gingival Hyperplasia;
+                - Prisão Urinária;
+                - Urticaria;
+                - Rash;
+                - Exantema;
+                - Febre;
+                - Fraqueza Muscular;
+                - Convulsões;
+                - Confusão;
+                - Desorientação;
+                - Somnolência;
+                - Parestesia;
+                - Vertigem;
+                - Visão Turva;
+                - Palidez;
+                - Tremor;
+                - Irritabilidade;
+                - Ansiedade;
+                - Insomnia;
+                - Distúrbio Da Memória;
+                - Alteração Na Conscieņcia;
+                - Sonho Atípico;
+                - Mania;
+                - Depressão;
+                - Suicidio;
+                - Abuso De Substancias;
+                - Acidente Vascular Cerebral;
+                - Encefalopatia;
+                - Hematoma Subdural;
+                - Lesão Cerebrovascular;
+                - Paralisia;
+                - Polineuropatia;
+                - Retinopatia;
+                - Glaucoma"
+Como devo tomar Blocan?,"10mg por dia, preferencialmente na manhã. Tomar apenas uma pílula por dia. Nuncatomar mais de duas pílulas por dia. Aumentar gradualmente a dose até chegar àdose máxima de 25mg por dia. Se necessário, continuar a aumentar a dose até37,5mg por dia. Depois disso, reduzir a dose para 25mg por dia. Continuarcom esta dose durante pelo menos três meses. Se necessário, continuar a aumentar a dosepara 50mg por dia. Depois disso, reduzir a dose para 25mg por dia. Continuarcom esta dose durante pelo menos três meses. Se necessário, continuar a aumentar a dosepara 75mg por dia. Depois disso, reduzir a dose para 25mg por dia. Continuarcom esta dose durante pelo menos três meses. Se necessário, continuar a aumentar a dosepara 100mg por dia. Depois disso, reduzir a dose para 25mg por dia. Continuarcom esta dose durante pelo menos três meses. Se necessário, continuar a aumentar a dosepara 125mg por dia. Depois disso, reduzir a dose para 25mg por dia. Continuarcom esta dose durante pelo menos três meses. Se necessário, continuar a aumentar a dosepara 150mg por dia. Depois disso, reduzir a dose para 25mg por dia. Continuarcom esta dose durante pelo menos três meses. Se necessário, continuar a aumentar a dosepara 175mg por dia. Depois disso, reduzir a dose para 25mg por dia. Continuarcom esta dose durante pelo menos três meses. Se necessário, continuar a aumentar a dosepara 200mg por dia. Depois disso, reduzir a dose para 25mg por dia. Continuarcom esta dose durante pelo menos três meses. Se necessário, continuar"
+Quais são os pontos de atenção que devo tomar ao usar Fortzaar?,1 - Não tome Fortzaar caso esteja a receber tratamentos com outros medicamentos para hipertensão arterial;2 - Não tome Fortzaar caso tenha problemas renais graves;3 - Não tome Fortzaar caso tenha problemas hepáticos graves;4 - Não tome Fortzaar caso esteja a receber tratamentos com outros medicamentos contra apressão arterial;5 - Não tome Fortzaar caso esteja a receber tratamentos com outros medicamentos antiinflamatórios não esteroides;6 - Não tome Fortzaar caso esteja a receber tratamentos com outros medicamentos antiagregantes plaquetários;7 - Não tome Fortzaar caso esteja a receber tratamentos com outros medicamentos antidiabéticos oral;8 - Não tome Fortzaar caso esteja a receber tratamentos com outros medicamentos hipoglicemiantes;9 - Não tome Fortzaar caso esteja a receber tratamentos com outros medicamentos antihipertensivos;10 - Não tome Fortzaar caso esteja a receber tratamentos com outros medicamentos antiarrítmicos;11 - Não tome Fortzaar caso esteja a receber tratamentos com outros medicamentos antipsicóticos;12 - Não tome Fortzaar caso esteja a receber tratamentos com outros medicamentos antihistamínicos;13 - Não tome Fortzaar caso esteja a receber tratamentos com outros medicamentos anestésicos locais;14 - Não tome Fortzaar caso esteja a receber tratamentos com outros medicamentos antiemético;15 - Não tome Fortzaar caso esteja a receber tratamentos com outros medicamentos antiemetizante;16 - Não tome Fortzaar caso esteja a receber tratamentos com outros medicamentos antiemetic;17 - Não tome Fortzaar caso esteja a receber tratamentos com outros medicamentos antiemética;18 - Não tome Fortzaar caso esteja a receber tratamentos com outros medicamentos antieméticos;19 - Não tome Fortzaar caso esteja a receber tratamentos com outros medicamentos antieméticos
+Quais são os efeitos desejáveis que posso ter ao tomar Lovastatina Azevedos?,1) Reduzir colesterol LDL;2) Reduzir triglicerídes;3) Incrementar HDL;4) Prevenir acidente vascular cerebral;5) Prevenir infarto agudo do miocárdio;6) Prevenir morte prematura por causa de doença cardiovascular;7) Evitar procedimentos cirúrgicos para limpar artérias obstruídas;8) Melhorar funções cognitivas;9) Melhorar memória;10) Melhorar concentração mental;11) Melhorar atenção;12) Melhorar humor;13) Melhorar energia;14) Melhorar apetite;15) Melhorar peso corporal;16) Melhorar aspecto físico;17) Melhorar saúde geral;18) Melhorar qualidade de vida;19) Melhorar relações familiares;20) Melhorar relacionamentos amorosos;21) Melhorar rendimento profissional;22) Melhorar condição financeira;23) Melhorar autoestima;24) Melhorar confiança;25) Melhorar autocontrole;26) Melhorar comportamento social;27) Melhorar capacidades intelectuais;28) Melhorar habilidades motoras;29) Melhorar coordenação motora;30) Melhorar reflexos;31) Melhorar equilíbrio;32) Melhorar flexibilidade;33) Melhorar resistência à fadiga;34) Melhorar mobilidade;35) Melhorar postura;36) Melhorar velocidade de movimentos;37) Melhorar força muscular;38) Melhorar endurance;39) Melhorar resistência à dor;40) Melhorar cicatrização das feridas;41) Melhorar cicatrização dos tecidos;42) Melhorar cicatrização das lesões nervosas;43) Melhorar cicatrização das lesões musculares;44) Melhorar cicatrização
+Como funciona o Latuda?," O Latuda contêm a substância ativa lurasidona e pertence a um grupode medicamentos denominados antipsicóticos. Ele é utilizado para tratar os sintomasda esquizofrenia em adultos (com idade igual ou superior a 18 anos) eadolescentes com idades entre 13-17 anos. A lurasidona funcionabloqueando os receptores no cérebro aos quais as substânciasdopamina e serotonina se ligam. A dopamina e asserotonina são neurotransmissores (substâncias que permitiam que ascelulas nervosas comunicassentre si) que estão envolvidas nos sintomas da esquizofrenia.Atravésdo bloqueio dos seus receptores, a lurasidona ajuda a normalizar aatividade do cérebro, reduzindo os sintomas da esquizofrenia.
+
+        """"""
+        return self._get_response(question=question)
+"
+Para que serve o Luveris?,1- Serve para induzir ovulação;2- Serve para induzir a menstruação;3- Serve para aumentar os níveis de FSH e LH;4- Serve para induzir a produção de GnRH;5- Serve para induzir a produção de Estradiol;6- Serve para induzir a produção de Prolactina;7- Serve para induzir a produção de TSH;8- Serve para induzir a produção de Cortisol;9- Serve para induzir a produção de Testosterona;10- Serve para induzir a produção de DHEAS;11- Serve para induzir a produção de ACTH;12- Serve para induzir a produção de Somatostatina;13- Serve para induzir a produção de Endorfinas;14- Serve para induzir a produção de Melatonina;15- Serve para induzir a produção de Catecolaminas;16- Serve para induzir a produção de Vasopressina;17- Serve para induzir a produção de ADH;18- Serve para induzir a produção de Insulina;19- Serve para induzir a produção de Glucagon;20- Serve para induzir a produção de Leptina;21- Serve para induzir a produção de Lipocalina;22- Serve para induzir a produção de Proteína C reativa;23- Serve para induzir a produção de Interleuchina;24- Serve para induzir a produção de Colônia;25- Serve para induzir a produção de IgG;26- Serve para induzir a produção de IgM;27- Serve para induzir a produção de IgA;28- Serve para induzir a produção de IgD;29- Serve para induzir a produção de IgE;30- Serve para induzir a produção de IgY;31- Serve para induzir a produção de
+Quais são os efeitos colaterais ao tomar Striverdi Respimat?," Poucos casos de reacções adversas graves foram relatados durante o tratamento com Stiverdi Respimat. No entanto, alguns dos efeitos secundários mais comuns incluem:
+                 Nasofaringite (corrimento nasal), Tontura, Erupção na pele, Artralgia (dor nas articulações), Hipertensão Também pode sentir efeitos secundários cuja ocorrência é conhecida nos certos medicamentos para problemas respiratórios semelhantes a Striverdi Respimat(agentes beta-adrenérgicos). Estes efeitos podem ser batimento cardíaco acelerado ou irregular ou sensação do batimento cardíaco, elevação ou diminuição da pressão arterial, tremor, dor de cabeça, nervosismo, insónia, tontura, boca seca, náusea, cãibras musculares, fadiga, mal estar geral, baixos níveis de potássio no sangue
+        '''}
+    }"
